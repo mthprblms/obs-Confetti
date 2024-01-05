@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.5)
-project(confetti_exploder)
+project(obsConfetti.cpp)
 
 # Set the source files for your plugin
 set(SOURCE_FILES
-    confetti_exploder.cpp
+    obsConfetti.cpp
 )
 
 # Find required packages (GLFW and GLEW)
